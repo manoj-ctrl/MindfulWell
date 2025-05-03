@@ -7,7 +7,11 @@ https://cs-base-2025-hack4health.devpost.com/
 pip install djangorestframework
 pip install django-cors-headers
 
+pip install djangorestframework-simplejwt
+
+
 #Project Installations Frontend
 npm install -D tailwindcss postcss autoprefixer
 npx tailwindcss init -p
 
+npm install axios
